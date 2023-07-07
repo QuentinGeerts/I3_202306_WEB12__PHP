@@ -1,0 +1,18 @@
+• Réaliser plusieurs exercices avec corrections
+
+• basic :
+    - structures itératives + exercices
+    - tableaux (+ foreach) + exercices
+    - fonctions
+    - sessions
+
+• PDO :
+    - create
+    - read (all + id)
+    - update
+    - delete
+
+• MVC :
+    - structures
+    - PDO
+    - session
